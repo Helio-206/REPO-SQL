@@ -1,2 +1,2 @@
 # REPO-SQL
-Login sql para o tio prof  "Abner"
+Login sql para o "prof Abner"
